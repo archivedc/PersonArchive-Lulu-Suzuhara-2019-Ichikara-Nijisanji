@@ -10,5 +10,5 @@ Lulu Suzuhara (鈴原るる), Nijisanji (にじさんじ) project from Ichikara 
 
 ## Archives
 
-- [Twitter](https://github.com/archivedc/TwitterArchives-Lulu-Suzuhara-2019-Ichikara-Nijisanji)
-- [YouTube](https://github.com/archivedc/YouTubeArchives-Lulu-Suzuhara-2019-Ichikara-Nijisanji)
+- [Twitter](https://github.com/archivedc/TwitterArchives-Lulu-Suzuhara-2019-Ichikara-Nijisanji) (Non Public)
+- [YouTube](https://github.com/archivedc/YouTubeArchives-Lulu-Suzuhara-2019-Ichikara-Nijisanji) (Non Public)
